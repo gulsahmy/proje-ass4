@@ -1,0 +1,154 @@
+
+
+h1{
+    
+    display: inline;
+    margin-left: 38px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+h2{
+    margin-left: 20px;
+    
+}
+.apple{
+    margin-left: 20px;
+    margin-bottom: -50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.PI{
+    text-align: left;
+}
+.par{
+    margin-left: 20px;
+    margin-top: -50px;
+    
+}
+span{
+   margin: -38px;
+        
+}
+.Tb{
+    background-color: rgb(9, 160, 247);
+    color: white;
+
+}
+.ctn{
+    width: 100%;
+}
+
+span.m2{
+   
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 5px;
+    background-color: rgb(9, 160, 247);
+    margin-left: 10px;
+    color: white;
+}
+
+button{
+    width: 80px;
+    height: 30px;
+    background-color: rgba(200, 197, 197, 0.987);
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    border: none;
+}
+.para{
+    width: 300px;
+    height: 20px;
+    background-color: white;
+    border: none;
+    font-size: 35px;
+    
+}
+
+.spt{
+    width: 200px;
+    background-color: rgb(9, 160, 247);
+    color: white;
+}
+body{
+    padding: 60px;
+}
+
+.container{
+    /* padding: 20px; */
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    /* text-align: center; */
+    box-shadow: 10px 10px 10px 10px black;
+ 
+    
+}
+ .container *{
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    /* text-align: center; */
+     padding: 20px; 
+}  
+
+header{
+    background-color: white;
+    margin-top: 10px;
+}
+
+main{
+    margin-top: 100px;
+    background-color: white;
+    padding: 5px;
+    height: 600px;
+}
+
+.but{
+    margin-left: 50px;
+    margin-bottom: -50px;
+
+}
+.stor{
+    margin-left: 20px;
+}
+
+aside{
+    
+    height: 400px;
+    width: 30%;
+    float: left;
+    margin-left: 10px;
+}
+
+
+article{
+    padding: 20px;
+    /* background-color: greenyellow; */
+    height: 500px;
+    width: 45%;
+    float: right;
+    margin-top: 50px;
+
+
+}
+
+footer{
+
+    background-color: coral;
+    clear: left;
+}
+
+.clear{
+    clear: both;
+    border: none;
+}
+
+/* .clearfix::after{
+    content: '';
+    clear: both;
+    display: block;
+}  */
